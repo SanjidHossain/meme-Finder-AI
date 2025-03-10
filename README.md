@@ -124,5 +124,5 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ---
 
-✨ Developed with ❤️ by YourName ✨
+✨ Developed with ❤️ by Md. Sanjid Hossain ✨
 
